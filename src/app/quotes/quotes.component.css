@@ -25,6 +25,22 @@
   height: 100%;
   width: 17%;
   color: #e1ffff;
+
+}
+.contaner{
+  width: 83%;
+  
+}
+.col-left{
+  /* margin-left: 0px; */
+  margin-right: 0px;
+  width:41.5%;
+}
+.col-right{
+  /* margin-left: 0px; */
+  margin-right: 0px;
+  width:41.5%;
+
 }
 
 .nav-side-menu .brand {
